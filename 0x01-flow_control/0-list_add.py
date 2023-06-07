@@ -8,4 +8,4 @@ def list_add():
     sum_appended = sum(appended_list)
     print("Sum Appended =", [sum_appended])
 
-list_add("a")
+list_add()
